@@ -1,7 +1,7 @@
 <?php
 /*
   instagram/get-user-timeline
-  https://api.simonescigliuzz.repl.co/instagram/get-user-timeline/?username=username
+  https://api2.simonevb.repl.co/instagram/get-user-timeline/?username=username
 **/
   include '../../_includes/functions.php';
   $fun = new functions();
