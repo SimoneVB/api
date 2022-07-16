@@ -1,6 +1,6 @@
 # Simone Scigliuzzi's API
 
-  Base Url: https://api.simonescigliuzz.repl.co/
+  Base Url: https://api2.simonevb.repl.co
 
   API List
 
